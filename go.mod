@@ -1,6 +1,6 @@
 module github.com/X2OX/zerotier-central-bot
 
-go 1.16
+go 1.20
 
 require (
 	github.com/FlowerLab/dandelion v0.0.1
